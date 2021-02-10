@@ -1,0 +1,1 @@
+console.log('olá, eu sou o app.js!')
